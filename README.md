@@ -3,7 +3,7 @@
 This project implements a CRUD (Create, Read, Update, Delete) API for managing students and colleges using SQLAlchemy, a powerful ORM (Object-Relational Mapping) library for Python. 
 The project provides endpoints to interact with a relational database, allowing users to perform operations such as creating, retrieving, updating, and deleting records for students and colleges.
 
-SQLAlchemy Project Configuration
+# SQLAlchemy Project Configuration
 
 a)File Structure
 
@@ -50,7 +50,7 @@ e)Database Migration
         Ensure consistency across different databases (SQLite, PostgreSQL, etc.).
 
 
-Setup Instructions
+# Setup Instructions
 
   -> Create a directory, open cmd in directory path  and clone Vendor-Navigator project
   
@@ -83,7 +83,6 @@ Setup Instructions
       cd sqlalchemy_project
       py manage.py runserver
 
-API Endpoints
 
 # SQLAlchemy Project: API Endpoints
 
