@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__
+
+# Ignore environment folder (e.g., virtualenv)
+env/
+venv/
+ENV/
+
+# Ignore database files
+*crud_app.db
+*.sqlite
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore configuration files that may contain sensitive information
+config.ini
